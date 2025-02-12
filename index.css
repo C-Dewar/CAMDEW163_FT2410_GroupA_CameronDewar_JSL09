@@ -29,11 +29,11 @@ div.top {
 
 h1.time {
     text-align: center;
-    font-size: 8rem;
+    font-size: 8rem;   
 }
 
 div#crypto {
-    font-size: 1.8rem;
+    font-size: 1.8rem; 
 }
 
 div#crypto > p {
@@ -76,3 +76,6 @@ p.weather-temp {
     font-size: 3rem;
     margin-left: -5px;
 }
+
+/* Modified some of the font sizes (increased), increased the size of the weather icon as well 
+as reduced the margin of the weather-city div to better match the solution image*/ 
